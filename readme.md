@@ -29,7 +29,7 @@ Would be great to add the predefined layout of keys in a separate figure
 ├── vialayout.json              
 └── via.json                    # funkeyboard keycap layout for VIA
 ```
-## Usage Instructions
+## Getting Started
 
 **Note for Robert Feranec:** Add the usage instructions here.
 ```
