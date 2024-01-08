@@ -1,6 +1,15 @@
 ## FUNKEYBOARD Project
 Funkeyboard is an awesome little custom keyboard. This repository contains the firmware for MCU.
 
+## Keyboard Preview
+
+    // Would be cool to add some images for attraction. Feel free to replace with some actual hardware images.
+
+![image](https://github.com/aitesam961/funkeyboard/assets/67455292/3ae2c0f0-e55a-4b30-8bf0-6eac6124ce8b)
+
+    // Would be great to add the predefined layout of keys in a separate figure
+![image](https://github.com/aitesam961/funkeyboard/assets/67455292/3ae2c0f0-e55a-4b30-8bf0-6eac6124ce8b)
+
 ## File Tree
 .
 
