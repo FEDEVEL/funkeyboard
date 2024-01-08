@@ -4,8 +4,8 @@ Funkeyboard is an awesome little custom keyboard. This repository contains the f
 ## File Tree
 .
 
-├── funkeyboard                  # // comments.........
-|   ├── keymaps/via              
+├── funkeyboard                 
+|   ├── keymaps/via
 |   |   ├── keymap.c                    
 |   |   └── rules.mk                    
 |   ├── config.h   
