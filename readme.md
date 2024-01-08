@@ -2,24 +2,24 @@
 Funkeyboard is an awesome little custom keyboard. This repository contains the firmware for MCU.
 
 ## File Tree
+```
 .
-
 ├── funkeyboard                 
-|   ├── keymaps/via
-|   |   ├── keymap.c                    
-|   |   └── rules.mk                    
-|   ├── config.h   
-|   ├── config.h  
-|   ├── info.json   
-|   ├── readme.md   
-|   ├── rules.md  
-|   └── via.json            
+|       ├── keymaps/via
+|       |       ├── keymap.c                    
+|       |       └── rules.mk                    
+|       ├── config.h   
+|       ├── config.h  
+|       ├── info.json   
+|       ├── readme.md   
+|       ├── rules.md  
+|       └── via.json            
 ├── halconf.h                         
 ├── mcuconf.h                         
 ├── readme.md                           
 ├── vialayout.json              
 └── via.json                    # funkeyboard keycap layout for VIA
-
+```
 ## Usage Instructions
 
 ```
